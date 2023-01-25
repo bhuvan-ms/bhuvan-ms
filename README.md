@@ -1,6 +1,6 @@
  Hi there I am Bhuvan 👋
 
-🌱 I’m currently learning React js and I'd like to know and work more on React js
+🌱 I’m currently learning React, Angular and .net and I'd like to know and work more on React, angular and c#.
 
 ⚡ Fun fact: My name can also be pronounced as Boo..1 cool isnt it ???
 <!--
