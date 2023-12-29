@@ -9,7 +9,7 @@ Hello, I am very passionate about building web applications, my tech stack is pr
 * 🌍  I'm based in Karnataka
 * ✉️  You can contact me at [bhuvanms31@gmail.com](mailto:bhuvanms31@gmail.com)
 * 🧠  I'm learning .NET Web APIs | Typescript | Python
-* ⚡  My name can also be pronounce as BOO...1 isn't it cool?
+* ⚡  My name can also be pronounced as BOO...1 isn't it cool?
 
 ### Skills
 
